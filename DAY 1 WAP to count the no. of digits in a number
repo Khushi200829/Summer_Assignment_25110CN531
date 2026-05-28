@@ -3,7 +3,7 @@
 int main()
 {
     int num,counter=0;
-    printf("Enter any number to find the number of digits :");
+    printf("Enter any number to find the no. of digits :");
     scanf("%d",&num);
     while (num!=0)
     {
