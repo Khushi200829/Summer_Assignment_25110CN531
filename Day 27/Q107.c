@@ -51,7 +51,8 @@ int main() {
                emp[i].hra,
                emp[i].da,
                emp[i].pf,
-               emp[i].netSalary);
+
+        emp[i].netSalary);
     }
 
     return 0;
