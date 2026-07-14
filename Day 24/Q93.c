@@ -16,7 +16,7 @@ int main() {
         return 0;
     }
 
-    // Concatenate str1 with itself
+    // Concatenate str1 with itself  
     strcpy(temp, str1);
     strcat(temp, str1);
 
